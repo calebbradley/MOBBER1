@@ -136,7 +136,8 @@ header .user_menu .name {
   font-size: 28px;
   text-align: center;
   box-shadow: 0 0 7px rgb(162, 162, 162);
-
+  width: 100%;
+  min-width: 960px;
 }
 
 /* event section */
