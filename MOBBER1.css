@@ -280,9 +280,13 @@ button:hover {
 }
 
 .ribbon {
-display: inline-block;
-margin: -23px 8px 8px -9px;
-padding: 0px;
+  display: inline-block;
+  margin: -23px 8px 8px -9px;
+  padding: 0px;
+}
+
+.arrow {
+  margin-top: -14px;
 }
 
 .reward-text {
@@ -447,7 +451,7 @@ span.start-a-mob {
 }
 
 .upcoming-third {
-  width: 300px;
+  width: 299px;
   display: inline-block;
   margin: 37px 0px 0px 15px;
 }
@@ -684,3 +688,17 @@ input {
   border: none;
   height: 1px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
